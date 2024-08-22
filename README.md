@@ -69,7 +69,7 @@
   
    <!--LINGUAGENS E FERRAMENTAS MAIS UTILIZADAS-->
   <p>
-    <img align="center" width="480" alt="Victor Wallace" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-wallace&show_icons=true&locale=en&layout=compact&theme=panda"/>
+    <img align="center" width="480" alt="Victor Wallace" src="https://github-readme-stats.vercel.app/api/top-langs?username=V-W-A&show_icons=true&locale=en&layout=compact&theme=panda"/>
   </p>
 </div>
   
